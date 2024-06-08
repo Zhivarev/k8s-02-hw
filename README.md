@@ -65,7 +65,7 @@
 ![vscode](img/k8s-02_01.png)
 
 Открытая страница в браузере  
-![browser](img/k8s-02_01.png)
+![browser](img/k8s-02_02.png)
 
 Запуск `port-forward` на сервере с `microk8s`
 ```
